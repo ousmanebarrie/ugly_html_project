@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+ h1 {
+     color: yellow;
+background-color: blue;
+text-align: center;
+
+    
+ }
+
+ h2 {
+     color: white;
+     font-size: 10px;
+ }
+ 
+ #starters_image_div{
+     text-align: center;
+ }
+
+ .list {
+     color: white;
+ }
+
+ .each_pokemon_container{
+     text-align: center;
+     
+ }
